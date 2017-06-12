@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
 
   s.source_files = "Sources/**/*.swift"
   s.dependency 'GPUImage', '~> 0.1.7'
-  s.dependency 'lf', '~> 0.6.0'
+  s.dependency 'lf', '~> 0.7.0'
 
 end
