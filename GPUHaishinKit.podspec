@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
 
   s.source_files = "Sources/**/*.swift"
   s.dependency 'GPUImage', :git => 'https://github.com/BradLarson/GPUImage.git', :branch => 'master'
-  s.dependency 'lf', '~> 0.7.0'
+  s.dependency 'lf', :git => 'https://github.com/shogo4405/lf.swift.git', :branch => 'master'
 
 end
