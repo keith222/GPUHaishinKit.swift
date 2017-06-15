@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.license      = "New BSD"
   s.author       = { "shogo4405" => "shogo4405@gmail.com" }
   s.authors      = { "shogo4405" => "shogo4405@gmail.com" }
-  s.source       = { :git => "https://github.com/shogo4405/GPUHaishinKit.swift.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/keith222/GPUHaishinKit.swift.git", :tag => "#{s.version}" }
   s.social_media_url = "http://twitter.com/shogo4405"
 
   s.ios.deployment_target = "8.0"
